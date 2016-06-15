@@ -4,7 +4,9 @@
   "description": "Node Test",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test:lint && npm run test:unit",
+    "test:lint": "eslint src",
+    "test:unit": "tape -r babel-register tests/**/*-test.js | faucet"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,17 @@
 # Node Test
 
+To get started:
+
+`npm install`
+
+Then:
+
+`npm start`
+
+To test:
+
+`npm test`
+
 ## Stack
 
 * Node 6
