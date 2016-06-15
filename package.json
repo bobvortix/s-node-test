@@ -1,0 +1,34 @@
+{
+  "name": "s-node-test",
+  "version": "1.0.0",
+  "description": "Node Test",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobvortix/s-node-test.git"
+  },
+  "author": "Will Bamford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobvortix/s-node-test/issues"
+  },
+  "homepage": "https://github.com/bobvortix/s-node-test#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.9.0",
+    "eslint": "^2.12.0",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.1",
+    "eslint-plugin-jsx-a11y": "^1.4.2",
+    "eslint-plugin-react": "^5.1.1",
+    "faucet": "0.0.1",
+    "proxyquire": "^1.7.9",
+    "sinon": "^1.17.4",
+    "tape": "^4.5.1"
+  }
+}
