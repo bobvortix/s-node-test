@@ -1,4 +1,4 @@
-# Node Test [Build status](https://circleci.com/gh/bobvortix/s-node-test.svg?style=shield)
+# Node Test [![Build status](https://circleci.com/gh/bobvortix/s-node-test.svg?style=shield)]
 
 To get started:
 
